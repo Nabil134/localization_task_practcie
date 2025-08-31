@@ -1,6 +1,6 @@
 {
-  "hi": "Hola, me llamo Nabeel",
-  "proficient": "Soy un profesional",
+  "hi": 123,
+  "proficient": 2233,
   "flutter": "Desarrollador de Flutter",
   "code": "Me encanta programar",
   "change_language": "Cambiar idioma"
